@@ -68,6 +68,11 @@ p{
 .social{
   text-align:center;
   margin-top:230px;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
 }
 
 svg{
@@ -97,4 +102,6 @@ path:hover{
   .miniCard{width:80px;}
 
   span{font-size:50px;}
+  
+  social{margin-top:300px}
 }
