@@ -80,7 +80,7 @@ svg{
   cursor:pointer;
 }
 
-.social:nth-child(3){
+svg:nth-child(3){
   margin-right:0;
 }
 
